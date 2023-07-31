@@ -1,0 +1,34 @@
+.bannerContainer {
+    display: flex;
+    justify-content: space-between;
+  }
+  .bannerContainer > img {
+    height: fit-content;
+  }
+
+  .bannerBox {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+  }
+.bannerBox > h2 {
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 3.631rem;
+}
+
+.bannerBox > h4 {
+    font-family: var(--font-secondary);
+    color: var(--color-purple);
+    font-weight: 400;
+    font-size: 0.938rem;
+    line-height: 1.406rem;
+}
+
+.bannerSection{
+    line-height: 8;
+}
+
+.bannerSection > p{
+    margin-top: 25px;
+}

@@ -1,0 +1,14 @@
+:root{
+    --font-primary: 'Inter', sans-serif;
+    --font-secondary: 'Poppins', sans-serif;
+
+    --color-black: #0C0C0C;
+    --color-white: #FFFFFF;
+    --color-purple: #6880FF;
+}
+
+body{
+    background-color: var(--color-black); 
+    color: var(--color-white); 
+    font-family: var(--font-primary);
+}

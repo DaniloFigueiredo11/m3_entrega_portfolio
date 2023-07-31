@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.nav{
+    margin: 0 20px;
+    font-size: 1rem;
+    font-family: var(--font-primary);
+    font-weight: 400;
+    line-height: 1.4;
+
+
+}

@@ -1,0 +1,29 @@
+.btn-header{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: .6rem;
+
+
+    background-color: var(--color-purple);
+    width: 7.125rem;
+    height: 2.438rem;
+    border-radius: 12px;
+    color: var(--color-white);
+}
+
+.btn-about{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: .6rem;
+    
+
+    background-color: var(--color-purple);
+    width: 130px;
+    height: 39px;
+    border-radius: 12px;
+    color: var(--color-white);
+}
